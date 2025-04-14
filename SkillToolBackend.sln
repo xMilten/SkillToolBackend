@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkillToolBackend", "SkillToolBackend\SkillToolBackend.csproj", "{031B3492-54CA-4EC0-A3E1-FE36F77A0E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillToolBackendTest", "SkillToolBackendTest\SkillToolBackendTest.csproj", "{421D1343-1E34-4E48-A2BE-A478124085AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031B3492-54CA-4EC0-A3E1-FE36F77A0E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031B3492-54CA-4EC0-A3E1-FE36F77A0E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031B3492-54CA-4EC0-A3E1-FE36F77A0E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031B3492-54CA-4EC0-A3E1-FE36F77A0E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421D1343-1E34-4E48-A2BE-A478124085AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421D1343-1E34-4E48-A2BE-A478124085AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421D1343-1E34-4E48-A2BE-A478124085AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421D1343-1E34-4E48-A2BE-A478124085AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E254C4-8F86-43E0-8CC1-83C167C896B2}
+	EndGlobalSection
+EndGlobal
